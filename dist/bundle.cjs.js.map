@@ -1,1 +1,1 @@
-{"version":3,"file":"bundle.cjs.js","sources":["../src/index.js"],"sourcesContent":["import Koa from 'koa';\n\nexport default function () {\n  this.Koa = Koa;\n  this.app = new Koa();\n}\n"],"names":["Koa","app"],"mappings":";;;;;;AAEe,kBAAY;OACpBA,GAAL,GAAWA,GAAX;OACKC,GAAL,GAAW,IAAID,GAAJ,EAAX;;;;;"}
+{"version":3,"file":"bundle.cjs.js","sources":["../src/index.js"],"sourcesContent":["import Koa from 'koa';\n\nexport default function () {\n  this.Koa = Koa;\n  this.app = new Koa();\n}\n"],"names":["Koa","app"],"mappings":"yIAEe,sBACRA,IAAMA,SACNC,IAAM,IAAID"}
